@@ -2,7 +2,7 @@
 Hello World sample with Java with Maven
 Changing the README.md file . Adding a new line.
 Changing 1st line.
-
+Chnaging 2nd line.
 
 ## Compile
 
