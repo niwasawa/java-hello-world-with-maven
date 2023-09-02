@@ -1,5 +1,6 @@
 # java-hello-world-with-maven
 Hello World sample with Java with Maven
+Changing the README.md file . Adding a new line.
 
 ## Compile
 
